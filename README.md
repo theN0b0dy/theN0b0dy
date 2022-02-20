@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on bitbine
 - 🌱 I’m currently learning microprocessor architectures & microservices in golang & analog/digital electronic
-- 👯 I’m looking to collaborate on blockchain, VHDL projects, golang projects
+- 👯 I’m looking to collaborate on blockchain, VHDL projects, golang projects, python cool projects
 - 🤔 I’m looking for help with everyone
 - 💬 Ask me about programming, electronics, proccessors, DB
 - 📫 How to reach me: amirreza.m.saki@gmail.com
