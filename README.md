@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with everyone
 - 💬 Ask me about programming, electronics, proccessors, DB
 - 📫 How to reach me: amirreza.m.saki@gmail.com
-- ⚡ Fun fact: nothing fun about me
+- ⚡ Fun fact: nothing fun about me.
